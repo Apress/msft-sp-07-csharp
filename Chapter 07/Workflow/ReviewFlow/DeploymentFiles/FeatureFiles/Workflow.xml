@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Workflow
+	  Name="Review Process Workflow"
+	  Description="Automated review process"
+	  Id="8A5252A3-D1B2-4aff-A5BF-9D91D2BF7D67"
+	  CodeBesideClass="ReviewFlow.Workflow1" 
+	  CodeBesideAssembly="ReviewFlow, Version=1.0.0.0, Culture=neutral,PublicKeyToken=8c9fc716f38d08b2"
+	  TaskListContentTypeId="0x01080100C9C9515DE4E24001905074F980F93160"
+	  AssociationUrl="_layouts/CstWrkflIP.aspx"
+	  InstantiationUrl="_layouts/IniWrkflIP.aspx"
+	  ModificationUrl="_layouts/ModWrkflIP.aspx">
+		<Categories/>
+		<MetaData>
+			<Association_FormURN>
+				urn:schemas-microsoft-com:office:infopath:AssocForm:-myXSD-2006-12-05T20-04-17
+			</Association_FormURN>
+			<Instantiation_FormURN>
+				urn:schemas-microsoft-com:office:infopath:InitForm:-myXSD-2006-12-05T20-04-17
+			</Instantiation_FormURN>
+			<Task0_FormURN>
+				urn:schemas-microsoft-com:office:infopath:Action:-myXSD-2006-12-05T20-31-05
+			</Task0_FormURN>
+			<StatusPageUrl>_layouts/WrkStat.aspx</StatusPageUrl>
+		</MetaData>
+	</Workflow>
+</Elements>

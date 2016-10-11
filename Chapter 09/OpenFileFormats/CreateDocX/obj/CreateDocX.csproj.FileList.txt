@@ -1,0 +1,10 @@
+bin\Debug\CreateDocX.exe
+bin\Debug\CreateDocX.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CreateDocX.exe
+obj\Debug\CreateDocX.pdb
+bin\Release\CreateDocX.exe
+bin\Release\CreateDocX.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CreateDocX.exe
+obj\Release\CreateDocX.pdb

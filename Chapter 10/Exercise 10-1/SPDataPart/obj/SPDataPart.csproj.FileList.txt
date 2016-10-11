@@ -1,0 +1,5 @@
+bin\Debug\SPDataPart.dll
+bin\Debug\SPDataPart.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SPDataPart.dll
+obj\Debug\SPDataPart.pdb

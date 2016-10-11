@@ -1,0 +1,7 @@
+bin\Release\AnnouncementHandler.dll
+bin\Release\AnnouncementHandler.pdb
+bin\Release\Microsoft.SharePoint.Search.dll
+bin\Release\Microsoft.SharePoint.Search.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\AnnouncementHandler.dll
+obj\Release\AnnouncementHandler.pdb

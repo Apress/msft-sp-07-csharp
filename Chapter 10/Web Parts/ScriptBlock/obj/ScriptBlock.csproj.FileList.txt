@@ -1,0 +1,5 @@
+bin\Release\ScriptBlock.dll
+bin\Release\ScriptBlock.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ScriptBlock.dll
+obj\Release\ScriptBlock.pdb

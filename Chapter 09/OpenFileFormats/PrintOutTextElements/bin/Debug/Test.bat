@@ -1,0 +1,2 @@
+PrintOutTextElements.exe Test.docx
+Pause

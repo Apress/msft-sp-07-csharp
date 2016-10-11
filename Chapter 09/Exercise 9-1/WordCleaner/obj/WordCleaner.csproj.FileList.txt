@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\WordCleaner.dll
+bin\Debug\WordCleaner.pdb
+obj\Debug\WordCleaner.dll
+obj\Debug\WordCleaner.pdb
+bin\Release\WordCleaner.dll
+bin\Release\WordCleaner.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WordCleaner.dll
+obj\Release\WordCleaner.pdb

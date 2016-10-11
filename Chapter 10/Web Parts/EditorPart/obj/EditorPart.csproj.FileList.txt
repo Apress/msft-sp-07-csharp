@@ -1,0 +1,5 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\EditorPart.dll
+bin\Release\EditorPart.pdb
+obj\Release\EditorPart.dll
+obj\Release\EditorPart.pdb

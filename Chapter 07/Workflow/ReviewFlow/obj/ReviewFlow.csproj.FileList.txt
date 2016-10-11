@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+.\bin\Debug\ReviewFlow.dll
+.\bin\Debug\ReviewFlow.pdb
+.\bin\Debug\Microsoft.SharePoint.Search.dll
+.\bin\Debug\Microsoft.SharePoint.Search.xml
+obj\Debug\ReviewFlow.dll
+obj\Debug\ReviewFlow.pdb
+.\bin\Release\ReviewFlow.dll
+.\bin\Release\Microsoft.SharePoint.Search.dll
+.\bin\Release\Microsoft.SharePoint.Search.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ReviewFlow.dll

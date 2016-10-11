@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="8EB5DD27-DAA9-4482-9C38-A5BE42431C7B">
+	<Assemblies>
+		<Assembly DeploymentTarget="WebApplication" Location="ScriptInclude.dll">
+			<SafeControls>
+				<SafeControl Assembly="SPScriptInclude, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8c9fc716f38d08b2" Namespace="SPScriptInclude" TypeName="*"/>
+			</SafeControls>
+		</Assembly>
+	</Assemblies>
+</Solution>

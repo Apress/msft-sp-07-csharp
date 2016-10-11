@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CustomTaskPane.csproj.ResolveComReference.cache
+obj\Debug\CustomTaskPane.Properties.Resources.resources
+obj\Debug\CustomTaskPane.csproj.GenerateResource.Cache
+obj\Debug\CustomTaskPane.NamePane.resources
+.\bin\Debug\CustomTaskPane.dll
+.\bin\Debug\CustomTaskPane.pdb
+.\bin\Debug\CustomTaskPane.dll.manifest
+obj\Debug\CustomTaskPane.dll
+obj\Debug\CustomTaskPane.pdb

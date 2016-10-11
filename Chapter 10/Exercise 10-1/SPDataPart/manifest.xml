@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/"
+		  SolutionId="AF597DAB-65D7-4c1a-A012-D04184CA647E">
+	<Assemblies>
+		<Assembly DeploymentTarget="WebApplication"
+			Location="SPDataPart.dll">
+			<SafeControls>
+				<SafeControl
+					Assembly="SPDataPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8c9fc716f38d08b2"
+					Namespace="SPDataPart" TypeName="*"/>
+			</SafeControls>
+		</Assembly>
+	</Assemblies>
+</Solution>
+

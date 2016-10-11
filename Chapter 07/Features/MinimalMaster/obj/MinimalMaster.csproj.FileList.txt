@@ -1,0 +1,7 @@
+bin\Release\MinimalMaster.dll
+bin\Release\MinimalMaster.pdb
+bin\Release\Microsoft.SharePoint.Search.dll
+bin\Release\Microsoft.SharePoint.Search.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\MinimalMaster.dll
+obj\Release\MinimalMaster.pdb

@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SiteExplorer.Form1.resources
+obj\Debug\SiteExplorer.Properties.Resources.resources
+obj\Debug\SiteExplorer.csproj.GenerateResource.Cache
+bin\Debug\SiteExplorer.exe.config
+bin\Debug\SiteExplorer.exe
+bin\Debug\SiteExplorer.pdb
+obj\Debug\SiteExplorer.exe
+obj\Debug\SiteExplorer.pdb

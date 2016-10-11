@@ -1,0 +1,5 @@
+bin\Release\CustomConnections.dll
+bin\Release\CustomConnections.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CustomConnections.dll
+obj\Release\CustomConnections.pdb

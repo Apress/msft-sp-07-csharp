@@ -1,0 +1,5 @@
+bin\Release\ScriptInclude.dll
+bin\Release\ScriptInclude.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ScriptInclude.dll
+obj\Release\ScriptInclude.pdb

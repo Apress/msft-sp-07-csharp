@@ -1,0 +1,10 @@
+bin\Debug\Hello.dll
+bin\Debug\Hello.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Hello.dll
+obj\Debug\Hello.pdb
+bin\Release\Hello.dll
+bin\Release\Hello.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Hello.dll
+obj\Release\Hello.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="65872119-4FF4-41be-82F2-73053ED6551C">
+	<Assemblies>
+		<Assembly DeploymentTarget="WebApplication" Location="Lifecycle.dll">
+			<SafeControls>
+				<SafeControl Assembly="SPLifecycle, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8c9fc716f38d08b2" Namespace="SPLifecycle" TypeName="*"/>
+			</SafeControls>
+		</Assembly>
+	</Assemblies>
+</Solution>

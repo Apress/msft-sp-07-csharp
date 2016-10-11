@@ -1,0 +1,5 @@
+bin\Release\Lifecycle.dll
+bin\Release\Lifecycle.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Lifecycle.dll
+obj\Release\Lifecycle.pdb

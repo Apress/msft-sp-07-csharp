@@ -1,0 +1,10 @@
+bin\Debug\PrintOutTextElements.exe
+bin\Debug\PrintOutTextElements.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PrintOutTextElements.exe
+obj\Debug\PrintOutTextElements.pdb
+bin\Release\PrintOutTextElements.exe
+bin\Release\PrintOutTextElements.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\PrintOutTextElements.exe
+obj\Release\PrintOutTextElements.pdb

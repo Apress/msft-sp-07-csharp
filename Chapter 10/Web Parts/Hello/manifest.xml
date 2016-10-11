@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" 
+		  SolutionId="19027F7E-5691-4faf-B5CF-1BACD7360D20">
+	<Assemblies>
+		<Assembly DeploymentTarget="WebApplication" Location="Hello.dll">
+			<SafeControls>
+				<SafeControl
+				Assembly="Hello, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8c9fc716f38d08b2"
+				Namespace="Hello" TypeName="*"/>
+			</SafeControls>
+		</Assembly>
+	</Assemblies>
+</Solution>

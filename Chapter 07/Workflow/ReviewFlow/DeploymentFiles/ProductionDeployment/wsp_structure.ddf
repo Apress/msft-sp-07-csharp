@@ -1,0 +1,22 @@
+;
+;*************
+; This ddf specifies the structure of the .wsp solution cab file. To customize this:
+; 1. Replace "ReviewFlow" with the name of your own feature.
+; 2. Add IP forms for the workflow at the bottom.
+;*************
+;
+.OPTION EXPLICIT     ; Generate errors 
+.Set CabinetNameTemplate=ReviewFlow.wsp     
+.set DiskDirectoryTemplate=CDROM ; All cabinets go in a single directory
+.Set CompressionType=MSZIP;** All files are compressed in cabinet files
+.Set UniqueFiles="ON"
+.Set Cabinet=on
+.Set DiskDirectory1=Package
+"..\..\DeploymentFiles\ProductionDeployment\manifest.xml"  manifest.xml
+"..\..\DeploymentFiles\FeatureFiles\feature.xml"      ReviewFlow\feature.xml
+"..\..\DeploymentFiles\FeatureFiles\workflow.xml"     ReviewFlow\workflow.xml
+"ReviewFlow.dll"      ReviewFlow.dll
+;
+;*** add IP forms
+;"..\..\DeploymentFiles\FeatureFiles\MyForm.xsn"      ReviewFlow\MyForm.xsn
+;*** <the end>

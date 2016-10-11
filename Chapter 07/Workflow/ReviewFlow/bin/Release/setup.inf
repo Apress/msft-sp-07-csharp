@@ -1,0 +1,21 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Tue Dec 05 23:19:24 2006           **
+;**                                                                **
+;** MakeCAB Version: 5.2.3790.0                     **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,ReviewFlow.wsp
+[file list]
+1,1,manifest.xml,643
+1,1,ReviewFlow\feature.xml,835
+1,1,ReviewFlow\workflow.xml,1129
+1,1,ReviewFlow.dll,20480
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Tue Dec 05 23:19:24 2006           **
+;**                                                                **
+;*** END ************************************************************

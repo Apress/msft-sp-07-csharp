@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="6C44CC80-4DE0-4fb0-99EA-A80BC0D260FB">
+	<Assemblies>
+		<Assembly DeploymentTarget="WebApplication" Location="StandardConnections.dll">
+			<SafeControls>
+				<SafeControl Assembly="StandardConnections, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8c9fc716f38d08b2" Namespace="StandardConnections" TypeName="*"/>
+			</SafeControls>
+		</Assembly>
+	</Assemblies>
+</Solution>
